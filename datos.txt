@@ -1,2 +1,5 @@
 nombre, primer apellido, segundo apellido, edad, color favorito
-Carolina, González, Alcer, 33, Morado
+Carolina, González, Alcocer, 33, Morado
+
+película favorita, día favorito
+Violines en el cielo, sábado
